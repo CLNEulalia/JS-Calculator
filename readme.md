@@ -67,7 +67,7 @@ Give your calculator a "master" method that can parse through a string of operat
 
 ## Bonus 3 
 
-Too easy? Try your hand at building out geometric objects and methods in this bonus [assignment](https://git.generalassemb.ly/sei-921/js-geometry).
+Too easy? Try your hand at building out geometric objects and methods in this bonus [assignment](https://git.generalassemb.ly/seir-1130/js-geometry).
 
 ## [License](LICENSE)
 
